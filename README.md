@@ -3,7 +3,9 @@
     <summary><h1 style="display: inline-block">Hi 👋, I'm Thilina Satoru</h1></summary>
   </ul>
 </div>
-<img align="center" height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+<div align="center">
+  <img align="center" height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+</div>
 
 <p align="center">
   <!--- stats (start) -->
