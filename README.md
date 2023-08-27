@@ -7,7 +7,15 @@
   <img align="center" height="300px" width= "320px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
 </div>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=tokyonight_duo" alt="7oSkaaa" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ThilinaSatoru&theme=tokyonight_duo" alt="ThilinaSatoru" /></p>
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+	    <img alt="Thilina Satoru's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ThilinaSatoru&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ThilinaSatoru&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="ThilinaSatoru" height="230px"/>
+<br/>
+
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
 
 <p id="user-content-toc">
   <ul align="center">
