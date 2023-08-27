@@ -8,7 +8,6 @@
 </div>
 
 <p align="center">
-  <!--- stats (start) -->
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
@@ -18,17 +17,17 @@
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ThilinaSatoru&theme=dark&hide_border=false" /> 
 </td>
 
-<div align=center>
+<p align=center>
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=ThilinaSatoru&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
-</div>
+</p>
 
-<div id="user-content-toc">
+<p id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
-</div>
+</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -38,8 +37,8 @@
 
 
 
-<div align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/thilina-satoru-413940174/">
-	  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedIn&logoColor=blue&labelColor=282828">
+  	<img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedIn&logoColor=blue&labelColor=282828">
   </a>
-</div>
+</p>
