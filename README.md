@@ -35,3 +35,11 @@
     <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,c,cpp,css,discord,docker,dynamodb,express,figma,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
   </a>
 </p>
+
+
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/thilina-satoru-413940174/">
+	  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedIn&logoColor=blue&labelColor=282828">
+  </a>
+</div>
